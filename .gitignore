@@ -1,0 +1,17 @@
+zig-cache/
+zig-global-cache/
+zig-ci-tmp/
+zig-arm-cache
+zig-out/
+buildrunner.zig
+.DS_Store
+imgui.ini
+recents.json
+.temp/
+*.code-workspace
+zig-pkg/
+.velopack-msvc/
+tools/msvcup-bin/
+tools/msvc-libc*.ini
+.zig-cache/
+.env.local
